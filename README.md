@@ -1,4 +1,4 @@
-This is something for test
+This is something for testing
 
 
 # Jenkins
